@@ -1,0 +1,202 @@
+DALIA COIFFURE
+
+
+# Contexte du projet
+
+Créer un site vitrine pour Dalia Coiffure, salon mixte (femmes et hommes mais principalement femmes) situé dans le 20ᵉ arrondissement de Paris. L’identité visuelle doit refléter l’élégance, la modernité et la simplicité. L’objectif est de mettre en avant la diversité des prestations, la transparence des tarifs (avec promotions visibles) et d’inciter à la réservation en ligne.
+
+# Identité visuelle
+
+- Palette : Rose poudré #fcd2de et blanc pur #FFFFFF uniquement
+- Accents : Dégradés de gris très subtils pour les séparateurs ou hover
+- Typographie :
+  - Titres : Playfair Display (élégance, style éditorial)
+  - Texte courant : Roboto ou Open Sans (sobriété, lisibilité)
+- Langue : Français (fr-FR)
+- Design : minimaliste, beaucoup d’espace blanc, iconographie fine et monochrome
+- Responsive : Design pensé mobile-first, UX fluide
+
+# Structure du site
+
+## Header / Navigation
+
+- Logo Dalia Coiffure centré ou à gauche, version texte stylisée
+- Menu à droite : Accueil, Prestations, Galerie, Avis, Réserver
+- Bouton visible : Prendre Rendez-vous
+- Fond blanc, texte noir, inversion possible au scroll (header sticky)
+
+## Hero – Accueil
+
+- Image en noir et blanc en plein écran (coupes modernes homme et femme)
+- Titre principal (H1) : Dalia Coiffure, votre salon chic à Paris 20
+- Sous-titre : Élégance, expertise et tarifs transparents
+- Bouton Voir nos Prestations ancré vers la section prestations
+
+## Section Prestations
+
+- Titre : Nos Forfaits & Soins
+- Présentation sous forme de cartes claires ou liste à colonnes
+- Chaque carte inclut :
+  - Nom du forfait
+  - Description succincte
+  - Prix avant/après promotion (affiché clairement, ex : ~54,00 €~ → 37,80 €)
+  - Bouton Réserver discret mais visible
+- Séparer visuellement : Homme | Femme | Techniques spécifiques (Ombré, Balayage, Lissage)
+
+### Liste complète des prestations
+
+#### Homme
+
+- **Coupe et Soin Homme**  
+  Shampooing / Soin Intensif / Coupe tondeuse / Coiffage  
+  Jusqu’à -30%  
+  ~26,00 €~ → 18,20 €  
+  Réserver
+
+- **Forfait Couleur Homme**  
+  Coloration / Shampooing / Coiffage  
+  Jusqu’à -30%  
+  ~35,00 €~ → 24,50 €  
+  Réserver
+
+- **Forfait Coupe, Taille de Barbe et Soin Homme**  
+  Shampooing / Coupe tondeuse / Coiffage / Taille de Barbe  
+  Jusqu’à -30%  
+  ~36,00 €~ → 25,20 €  
+  Réserver
+
+- **Forfait Couleur et Coupe Homme**  
+  Coloration / Shampooing / Coupe tondeuse / Coiffage  
+  Jusqu’à -30%  
+  ~54,00 €~ → 37,80 €  
+  Réserver
+
+#### Femme
+
+- **Forfait Coupe et Soin Femme**  
+  Shampooing / Soin / Coupe / Séchage Naturel  
+  Jusqu’à -30%  
+  ~32,00 €~ → 22,40 €  
+  Réserver
+
+- **Forfait Couleur (racines) et Soin**  
+  Coloration / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~55,00 €~ → 38,50 €  
+  Réserver
+
+- **Forfait Couleur (tête entière) et Soin**  
+  Coloration / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~55,00 €~ → 38,50 €  
+  Réserver
+
+- **Forfait Couleur (tête entière), Coupe et Soin**  
+  Coloration / Shampooing / Soin / Coupe / Brushing  
+  Jusqu’à -30%  
+  ~63,00 €~ → 44,10 €  
+  Réserver
+
+- **Forfait Couleur (racines), Coupe et Soin**  
+  Coloration / Shampooing / Soin / Coupe / Brushing  
+  Jusqu’à -30%  
+  ~63,00 €~ → 44,10 €  
+  Réserver
+
+#### Ombré Hair / Tye & Die
+
+- **Forfait Ombré Hair, Patine et Soin**  
+  Ombré Hair / Patine / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~132,00 €~ → 92,40 €  
+  Réserver
+
+- **Forfait Ombré Hair, Coupe, Patine et Soin**  
+  Ombré Hair / Patine / Coupe / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~142,00 €~ → 99,40 €  
+  Réserver
+
+#### Lissage / Défrisage
+
+- **Forfait Lissage**  
+  Lissage / Brushing  
+  Jusqu’à -30%  
+  ~160,00 €~ → 112,00 €  
+  Réserver
+
+- **Forfait Lissage et Coupe**  
+  Lissage / Coupe / Brushing  
+  Jusqu’à -30%  
+  ~168,00 €~ → 117,60 €  
+  Réserver
+
+#### Balayage / Mèches
+
+- **Forfait Balayage, Patine et Soin**  
+  Balayage / Patine / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~85,00 €~ → 59,50 €  
+  Réserver
+
+- **Forfait Mèches, Patine et Soin**  
+  Mèches / Patine / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~85,00 €~ → 59,50 €  
+  Réserver
+
+- **Forfait Mèches, Coupe, Patine et Soin**  
+  Mèches / Patine / Coupe / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~93,00 €~ → 65,10 €  
+  Réserver
+
+- **Forfait Balayage, Coupe, Patine et Soin**  
+  Balayage / Patine / Coupe / Shampooing / Soin / Brushing  
+  Jusqu’à -30%  
+  ~93,00 €~ → 65,10 €  
+  Réserver
+
+## Section Galerie
+
+- Titre : Nos Réalisations
+- Grille de photos en noir et blanc, effet zoom léger au survol
+- Slider optionnel pour mobile
+- Images avant/après autorisées pour illustrer transformation
+
+## Section Avis Clients
+
+- Titre : Ce qu’ils disent de nous
+- Témoignages clients extraits de Google ou recueillis
+- Format slider ou grille, typographie italique pour élégance
+- Note globale visible (optionnel)
+
+## Section Réservation
+
+- Titre : Prendre Rendez-vous
+- CTA principal : Réserver en Ligne redirige vers formulaire ou plugin de réservation
+- Coordonnées :
+  Adresse : 252 Rue des Pyrénées, 75020 Paris
+  Téléphone : 09 83 51 18 24
+  Horaires :
+    - Lundi à Vendredi : 10:00–20:00
+    - Samedi : 10:00–19:00
+    - Dimanche : 11:00–19:00
+- Carte Google Maps intégrée en noir et blanc
+- Téléphone cliquable mobile
+
+## Footer
+
+- Logo ou nom du salon stylisé
+- Liens rapides : Accueil, Prestations, Avis, Réserver
+- Réseaux sociaux en icônes monochromes alignés horizontalement
+- Copyright discret
+
+# RÈGLES DE DÉVELOPPEMENT
+
+- Utiliser Shadcn UI pour des composants élégants, cohérents et sobres
+- Animation subtile : fade-in au scroll pour les sections, survol doux sur les boutons
+- Balises SEO optimisées : titres clairs H1/H2/H3, meta description, alt sur images
+- Code structuré : 1 composant par section pour une maintenance facile
+- Système de réservation externe ou formulaire interne avec notifications
+- Images de prestations obligatoires à aller chercher sur « Unsplash »
